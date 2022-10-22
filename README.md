@@ -29,6 +29,7 @@ After Login Please Change Panel User/Pass From System Setting to protect your se
 <b>Create User Connection</b>
 <br>
 1 - Go to your "Management System Admin Url" http://[your_ip]:54321
+<br>
 2 - Go to "Inbound List"
 <br>
 3 - Click " + " blue icon on right top page
