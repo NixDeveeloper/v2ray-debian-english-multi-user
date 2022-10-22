@@ -1,4 +1,3 @@
-# v2ray-debian-english-multi-user
 Dear Friends
 <br>
 If you need config/install v2ray vpn on your own linux server, its ok you are right place .
