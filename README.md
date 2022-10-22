@@ -43,9 +43,13 @@ you can find many script on github but other scripts are with China Language and
 10 - Enjoy your free internet.
 <br>
 <br>
-<b>Android Client</b>
+<b>V2Ray Client</b>
 <br>
-Download From Google Play : <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en&gl=US" target="_blank">Google Play</a>
+Android Client : <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en&gl=US" target="_blank">Google Play</a>
+<br>
+MacOS Client : <a href="https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip" target="_blank">V2RayX.app.zip On Github</a>
+<br>
+Windows Client : <a href="https://github.com/PoseidonM4A4/v2rayP/releases/download/v0.1.3/v2rayP-v0.1.3.zip" target="_blank">v2rayP-v0.1.3.zip On Github</a>
 <br>
 <br>
 Donate Us (Crypto : USDT-TRC20) : <code>TDmwnAGjcookzT3sjhxtR67AQgTDsRiy54</code>
