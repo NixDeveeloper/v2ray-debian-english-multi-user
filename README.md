@@ -8,7 +8,8 @@ you can find many script on github but other scripts are with China Language and
 <br>
 <b>What you need ?</b>
 <br>
-1 - Linux server (Cpu : 1core / Ram : 2GB / Os (Recommended) : Debian 10)
+1 - Linux server (Required Os : Debian 10)
+** Can Buy from digitalOcean $4~$5/Month : <a href="https://www.digitalocean.com/solutions/vps-hosting">DigitalOcean - No Referal (Wee Need No Ref)</a>
 <br>
 <br>
 <b>Installation</b>
@@ -20,10 +21,14 @@ you can find many script on github but other scripts are with China Language and
 3 - Done . 
 <br>
 <br>
+<b>Security Attention</b>
+<br>
+After Login Please Change Panel User/Pass From System Setting to protect your server
+<br>
+<br>
 <b>Create User Connection</b>
 <br>
 1 - Go to your "Management System Admin Url" http://[your_ip]:54321
-<br>
 2 - Go to "Inbound List"
 <br>
 3 - Click " + " blue icon on right top page
