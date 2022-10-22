@@ -9,7 +9,7 @@ you can find many script on github but other scripts are with China Language and
 <br>
 1 - Linux server (Required Os : Debian 10)
 <br>
-** Can Buy from digitalOcean $4~$5/Month : <a href="https://www.digitalocean.com/solutions/vps-hosting">DigitalOcean - No Referal (Wee Need No Ref)</a>
+** You Can Buy from digitalOcean $4~$5/Month : <a href="https://www.digitalocean.com/solutions/vps-hosting">DigitalOcean - No Referal (We Need No Ref)</a>
 <br>
 <br>
 <b>Installation</b>
