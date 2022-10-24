@@ -28,7 +28,7 @@ After Login Please Change Panel User/Pass From System Setting to protect your se
 <br>
 <b>Create User Connection</b>
 <br>
-1 - Go to your "Management System Admin Url" http://[your_ip]:54321 | username & password : admin
+1 - Go to your admin panel  " http:// your_server_ip : 54321 " | username & password : admin
 <br>
 2 - Go to "Inbound List"
 <br>
