@@ -16,7 +16,7 @@ you can find many script on github but other scripts are with China Language and
 <br>
 1 - Connect your server with SSH
 <br>
-2 - Type this command : <code>bash <(curl -Ls https://bit.ly/nixdev_v2ray)</code>
+2 - Type this command : <code>bash <(curl -Ls https://bit.ly/nixdev_install_v2ray)</code>
 <br>
 3 - Press "y" and enter to install 7z . 
 <br>
