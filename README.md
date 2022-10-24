@@ -18,9 +18,7 @@ you can find many script on github but other scripts are with China Language and
 <br>
 2 - Type this command : <code>bash <(curl -Ls https://bit.ly/nixdev_install_v2ray)</code>
 <br>
-3 - Press "y" and enter to install 7z . 
-<br>
-4 - Done.
+3 - Done.
 <br>
 <br>
 <b>Security Attention</b>
