@@ -1,5 +1,6 @@
 apt update
 apt-get install build-essential -y
+apt install sudo -y
 apt install curl -y
 apt install p7zip-full -y
 apt install git -y
