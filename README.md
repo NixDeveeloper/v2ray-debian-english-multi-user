@@ -26,7 +26,17 @@ apt update -y && apt install curl -y && bash <(curl -Ls https://raw.githubuserco
 <br>
 <b>Security Attention</b>
 <br>
-After Login Please Change Panel User/Pass From System Setting to protect your server
+1 - Go to your admin panel  " http:// your_server_ip : 54321 " | username & password : admin
+<br>
+2 - Go to Panel Settings (right side on menu)
+<br>
+3 - Change Panel listening port
+<br>
+4 - Go to user settings
+<br>
+5 - Change Username & Password Panel
+<br>
+6 - Restart panel
 <br>
 <br>
 <b>Create User Connection</b>
