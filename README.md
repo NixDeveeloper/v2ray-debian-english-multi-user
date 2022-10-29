@@ -41,7 +41,7 @@ apt update -y && apt install curl -y && bash <(curl -Ls https://raw.githubuserco
 <br>
 <b>Create User Connection</b>
 <br>
-1 - Go to your admin panel  " http:// your_server_ip : 54321 " | username & password : admin
+1 - Go to your admin panel  (panel url and username and password changed on last section)
 <br>
 2 - Go to "Inbound List"
 <br>
