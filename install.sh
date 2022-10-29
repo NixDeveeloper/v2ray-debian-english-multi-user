@@ -10,11 +10,11 @@ git clone https://github.com/NixDeveeloper/x-ui-english
 cd x-ui-english
 go build main.go
 mv main /usr/local/bin/x-ui
-wget -N --no-check-certificate https://github.com/NixDeveeloper/v2ray-debian-english-multi-user/raw/main/improve.sh && chmod +x improve.sh && bash improve.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/NixDeveeloper/v2ray-debian-english-multi-user/main/improve.sh && chmod +x improve.sh && bash improve.sh
 cd /usr/local/
 mkdir x-ui
 cd x-ui
-wget -N --no-check-certificate -O bin.7z https://github.com/NixDeveeloper/v2ray-debian-english-multi-user/raw/main/bin.7z
+wget -N --no-check-certificate -O bin.7z https://raw.githubusercontent.com/NixDeveeloper/v2ray-debian-english-multi-user/main/bin.7z
 7z x bin.7z
 sudo x-ui >/dev/null 2>&1 &
 rm -rf /root/x-ui-english
