@@ -16,8 +16,11 @@ you can find many script on github but other scripts are with China Language and
 <br>
 1 - Connect your server with SSH
 <br>
-2 - Run this command : <code>bash <(curl -Ls https://bit.ly/nixdev_v2ray_auto)</code>
+2 - Run command as below
 <br>
+```
+bash <(curl -Ls https://raw.githubusercontent.com/NixDeveeloper/v2ray-debian-english-multi-user/main/install.sh)
+```
 3 - Done.
 <br>
 <br>
