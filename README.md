@@ -19,7 +19,7 @@ you can find many script on github but other scripts are with China Language and
 2 - Run command as below
 <br>
 ```
-apt update -y && apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/NixDeveeloper/v2ray-debian-english-multi-user/main/install.sh)
+apt update -y && apt install curl -y && apt install wget -y && bash <(curl -Ls https://raw.githubusercontent.com/NixDeveeloper/v2ray-debian-english-multi-user/main/install.sh)
 ```
 3 - Done.
 <br>
